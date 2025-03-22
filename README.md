@@ -73,7 +73,7 @@ Visualization: Matplotlib
 
 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/coffe-shop.git
+git clone https://github.com/ArNavalekar/Coffee-Shop-Website.git
 cd coffee-shop
 
 Step 2: Create Virtual Environment
